@@ -17,7 +17,7 @@ namespace DiscordNewsBot
 
             _client.Log += Log;
 
-            var token = "Njg5NzQzMDQzMzM0NTA0NDY5.XnHTRA.APyUOm8UT5afxwl8xn-snfw9LN4";
+            var token = "tokens";
 
             await _client.LoginAsync(TokenType.Bot, token);
             await _client.StartAsync();

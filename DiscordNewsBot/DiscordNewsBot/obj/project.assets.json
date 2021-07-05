@@ -1448,11 +1448,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\visual-studio\\DiscordNewsBot\\DiscordNewsBot\\DiscordNewsBot.csproj",
+      "projectUniqueName": "D:\\Github\\CSharpStuff\\DiscordNewsBot\\DiscordNewsBot\\DiscordNewsBot.csproj",
       "projectName": "DiscordNewsBot",
-      "projectPath": "D:\\Github\\visual-studio\\DiscordNewsBot\\DiscordNewsBot\\DiscordNewsBot.csproj",
+      "projectPath": "D:\\Github\\CSharpStuff\\DiscordNewsBot\\DiscordNewsBot\\DiscordNewsBot.csproj",
       "packagesPath": "C:\\Users\\silen\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\visual-studio\\DiscordNewsBot\\DiscordNewsBot\\obj\\",
+      "outputPath": "D:\\Github\\CSharpStuff\\DiscordNewsBot\\DiscordNewsBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

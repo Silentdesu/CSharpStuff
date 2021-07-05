@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qUJD9ZeZqrgThGRhxoWxApE6Etzfmbj3pi7arv9IKy/zAv8C8Gf0nVBS+EtUUG3AMsplgLbrqhBncYsqAT1i6g==",
+  "dgSpecHash": "C+dviMf+2dCRclgnlyYcWyLg2ASXPQGc6NhJqL66RMyx55JgU0DFOfcivAvoI7M7qnskgD8HHP0ALpdUebDwaw==",
   "success": true,
-  "projectFilePath": "D:\\Github\\visual-studio\\DiscordNewsBot\\DiscordNewsBot\\DiscordNewsBot.csproj",
+  "projectFilePath": "D:\\Github\\CSharpStuff\\DiscordNewsBot\\DiscordNewsBot\\DiscordNewsBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\silen\\.nuget\\packages\\discord.net\\2.4.0\\discord.net.2.4.0.nupkg.sha512",
     "C:\\Users\\silen\\.nuget\\packages\\discord.net.commands\\2.4.0\\discord.net.commands.2.4.0.nupkg.sha512",
